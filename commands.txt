@@ -1,0 +1,10 @@
+git checkout -b branch__name
+
+for deleting the branch :
+git checkout main 
+git branch -D branch__name
+
+for pull : 
+git pull origin branch__name
+
+for push : git push origin branch__name
